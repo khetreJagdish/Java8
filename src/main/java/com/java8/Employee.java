@@ -20,6 +20,7 @@ public class Employee {
 		return empName;
 	}
 	public void setEmpName(String empName) {
+		System.out.println("Test");
 		this.empName = empName;
 	}
 	
